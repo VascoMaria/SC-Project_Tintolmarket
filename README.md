@@ -32,3 +32,13 @@ Therefore, the focus of this repository is mainly on the source code and system 
 ## Notes
 
 This project was developed for academic purposes and represents the knowledge and skills acquired during the course at that time.
+
+## Authors
+
+This project was developed as a group project during the Bachelor's Degree in Computer Engineering (2023).
+
+The authors of this project are:
+- Vasco Maria  
+- Henrique Catarino  
+- Miguel Nunes  
+
